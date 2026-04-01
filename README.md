@@ -1,5 +1,3 @@
-# clustering-analysis-iris
-Clustering analysis using Iris dataset
 # Clustering Analysis - Iris Dataset
 
 ## Objective
